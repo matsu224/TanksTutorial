@@ -34,31 +34,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2663076604809807957, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_Size.x
-      value: 1.8134593
+      value: 1.6790537
       objectReference: {fileID: 0}
     - target: {fileID: 2663076604809807957, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_Size.y
-      value: 1.1006587
+      value: 1.0132949
       objectReference: {fileID: 0}
     - target: {fileID: 2663076604809807957, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_Size.z
-      value: 2.499831
+      value: 2.425908
       objectReference: {fileID: 0}
     - target: {fileID: 2663076604809807957, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_Center.x
-      value: 0.01848179
+      value: -0.0016790032
       objectReference: {fileID: 0}
     - target: {fileID: 2663076604809807957, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_Center.y
-      value: 0.5181714
+      value: 0.47448963
       objectReference: {fileID: 0}
     - target: {fileID: 2663076604809807957, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_Center.z
-      value: 0.20354784
+      value: 0.20690799
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -20.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalPosition.y
@@ -66,11 +66,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 29.9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.32556817
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalRotation.x
@@ -78,7 +78,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.94551855
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalRotation.z
@@ -90,7 +90,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 142
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2714646803185371877, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -103,6 +103,10 @@ PrefabInstance:
     - target: {fileID: 3974833685099381391, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_TurnSpeed
       value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3974833685099381391, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
+      propertyPath: m_IsDirectControl
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3974833685099381391, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_IsComputerControlled
@@ -138,11 +142,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9036863086047673990, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.925
+      value: 0.851
       objectReference: {fileID: 0}
     - target: {fileID: 9036863086047673990, guid: e1b90eeca2fee4e7db4e90f763eed371, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.486
+      value: 1.513
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
